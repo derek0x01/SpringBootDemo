@@ -1,2 +1,3 @@
 # SpringBootDemo
 SpringBoot框架和MyBatis-Plus的学习，没用复杂的逻辑
+在resources目录下是打包好的前端页面
